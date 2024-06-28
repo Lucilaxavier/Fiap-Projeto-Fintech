@@ -13,5 +13,12 @@ Este projeto de desenvolvimento de sistemas foca inicialmente no Front-End, util
    - Implementação do Back-End para lógica de negócios e interação com o usuário.
    - Integração com banco de dados para armazenamento e recuperação de informações.
 
-O projeto visa criar uma plataforma robusta e escalável, começando pela interface do usuário e evoluindo para funcionalidades mais complexas com o desenvolvimento do Back-End e integração de dados.
-![Interface Home](https://github.com/Lucilaxavier/Fiap-Projeto-Fintech/assets/57038945/76a93534-71a8-415c-8f21-4cad5cc6b625)
+O projeto visa criar uma plataforma robusta e escalável, começando pela interface do usuário e evoluindo para func
+
+
+ionalidades mais complexas com o desenvolvimento do Back-End e integração de dados.
+![Interface Home] https://github.com/Lucilaxavier/Fiap-Projeto-Fintech/assets/57038945/8632c7fa-fbeb-433c-9edf-030e740c0e44
+
+
+
+
